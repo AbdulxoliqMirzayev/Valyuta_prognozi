@@ -41,3 +41,7 @@ kelajakda bu modelni yanada takomillashtirish real time malumotlar asosida narxl
 ### NATIJALAR 
 
 <img width="586" height="209" alt="image" src="https://github.com/user-attachments/assets/d34536cd-5473-412a-8c56-0403035a3835" />
+
+### MODELNI ANIQLIGI 
+<img width="379" height="109" alt="image" src="https://github.com/user-attachments/assets/a056e815-f46f-47f3-97ff-6d5a4aec8aa7" />
+
