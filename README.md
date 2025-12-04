@@ -22,11 +22,11 @@ Ushbu loyiha O‘zbekiston so‘mi (UZS) va AQSH dollari (USD) o‘rtasidagi val
 - d=1 differensiyalash qo‘llanadi  
 - ACF va PACF grafiklari orqali p va q parametrlari tanlanadi  
 
-### 🔹 Modelni o‘qitish
-```python
+### Modelni o‘qitish
+
 model = ARIMA(train, order=(1, 1, 1))
 model_fit = model.fit()
-
+ 
 Tarixiy narx line chart
 
 Bashorat qilingan narx (qizil rangda)
@@ -36,6 +36,8 @@ Bashorat qilingan narx (qizil rangda)
 ACF va PACF grafiklari (ARIMA parametrlari uchun)
 
 Grafiklar modelning vaqt bo‘yicha o‘zgarishini va bashoratning qanchalik barqaror ekanini ko‘rsatadi.
+kelajakda bu modelni yanada takomillashtirish real time malumotlar asosida narxlarni bashorat qiluvchi model qilsak bo'ladi. 
 
+### NATIJALAR 
 
 <img width="586" height="209" alt="image" src="https://github.com/user-attachments/assets/d34536cd-5473-412a-8c56-0403035a3835" />
