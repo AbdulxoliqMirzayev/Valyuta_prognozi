@@ -46,7 +46,9 @@ kelajakda bu modelni yanada takomillashtirish real time malumotlar asosida narxl
 <img width="379" height="109" alt="image" src="https://github.com/user-attachments/assets/a056e815-f46f-47f3-97ff-6d5a4aec8aa7" />
 
 
-### Bu grafikda Indekator grafigi yani trentni aniqlashda volumeni ko'rishda yordam beradi modelni moslashish aniqligi 
+###Bu grafik USD/UZS kursining 15 yillik tarixini  (Moving Average) 
+trendini ko‘rsatadi. Asosiy maqsad — uzoq muddatli o‘zgarishni tahlil qilish va model uchun barqaror signal olish.
+
 <img width="1178" height="624" alt="image" src="https://github.com/user-attachments/assets/f4bbefe5-acf6-4354-9e76-b1a486984fc1" />
 
 
